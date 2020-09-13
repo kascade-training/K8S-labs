@@ -1,6 +1,5 @@
 # kuberverse k8s lab provisioner
 # type: kubeadm-calico-full-cluster-bootstrap
-# created by Artur Scheiner - artur.scheiner@gmail.com
 # dependencies: https://raw.githubusercontent.com/kascade-training/kuberverse/master/labs/kv-k8s-cluster/common.sh
 #               https://raw.githubusercontent.com/kascade-training/kuberverse/master/labs/kv-k8s-cluster/master.sh
 #               https://raw.githubusercontent.com/kascade-training/kuberverse/master/labs/kv-k8s-cluster/worker.sh
